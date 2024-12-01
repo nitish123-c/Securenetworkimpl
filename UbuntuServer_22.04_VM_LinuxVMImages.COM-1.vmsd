@@ -1,0 +1,5 @@
+.encoding = "windows-1252"
+cloneOf0 = "D:\AmosProject\UbuntuServer_22.04_VM_LinuxVMImages.COM.vmx"
+numCloneOf = "1"
+sentinel0 = "UbuntuServer_22.04_VM_LinuxVMImages.COM-cl1.vmdk"
+numSentinels = "1"
